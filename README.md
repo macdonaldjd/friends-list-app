@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Simple friends list app used as a lesson to show off to fellow classmates. Utilizes a fully functioning login and account editing features by the use of Devise.
 
-Things you may want to cover:
+to run this app the following steps are required
 
-* Ruby version
+in the root of the directory run `rails s` in the terminal
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Takes a minute to boot but the url address should be in the terminal when finished to load the website.
